@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |spec|
   spec.name          = "mhc-project-doc"
-  spec.version       = "1.0.0"
+  spec.version       = "1.0.1"
   spec.authors       = ["Matheus Castiglioni"]
   spec.email         = ["matheushcastiglioni@gmail.com"]
 
